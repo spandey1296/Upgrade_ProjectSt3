@@ -1,0 +1,22 @@
+.bd
+{
+      background-color:rgb(106, 92, 231);
+}
+.submit
+{
+      background-color: chocolate;
+}
+.na,.mob,.name{
+      background-color: grey;
+}
+.del
+{
+      background-color: darkkhaki;
+}
+
+label {
+  width: 10%;
+}
+table{
+      border:none;
+}
